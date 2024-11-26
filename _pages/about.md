@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student from [School of Resources and Environmental Engineering](https://cree.wust.edu.cn/index.htm), [Wuhan University of Science and Technology](https://www.wust.edu.cn/). My research interest includes computer vision, machine learning, and combinatorial optimization.
+Fang Yan is a second year undergraduate student from [School of Resources and Environmental Engineering](https://cree.wust.edu.cn/index.htm), [Wuhan University of Science and Technology](https://www.wust.edu.cn/). My research interest includes computer vision, machine learning, and combinatorial optimization.
 
 <!-- A data-driven personal website
 ======
