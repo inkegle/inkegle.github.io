@@ -22,10 +22,10 @@ repository               : "inkegle/inkegle.github.io"
 author:
   # Biographic information
   avatar           : "sky-pic.png"
-  name             : "Wuhan City"
+  name             : "Fang Yan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Wuhan City"
   employer         : "Wuhan University of Science and Technology"
   uri              : # URL
   email            : "lingle_yanfang@ewust.edu.cn" 
