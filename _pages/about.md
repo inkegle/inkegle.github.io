@@ -11,7 +11,7 @@ Fang Yan is a second year undergraduate student from [School of Resources and En
 
 Selected Awards and Honors
 ===
-- First Prize of China Undergraduate Mathematical Contest in Model, 2024 Setp <br> (2024年全国大学生数学建模竞赛一等奖, <font color='red'>Top 0.45% of participating teams</font>, [Link](https://www.mcm.edu.cn/upload_cn/node/733/4rFKQqyT96ee1e63dd8d2408e56df8b2ec172125.pdf))
+- First Prize of China Undergraduate Mathematical Contest in Model, 2024 Setp <br> (2024年全国大学生数学建模竞赛一等奖, <font color='red'>Top 0.50% of participating teams</font>, [Link](https://www.mcm.edu.cn/upload_cn/node/733/4rFKQqyT96ee1e63dd8d2408e56df8b2ec172125.pdf))
 
 <!-- A data-driven personal website
 ======
